@@ -15,6 +15,6 @@ I have +1 year of experience as a frontend developer, here you will find project
 - https://padlet.com/Dayerlin_Bustamante/developerCV
 - https://padlet.com/Dayerlin_Bustamante/certificados 
 
-### if you like leave me a star
+### if you like leave me a star ⭐
 
 [![img](./img/app.png)](https://dayerlin.com/)
